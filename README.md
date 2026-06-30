@@ -6,9 +6,9 @@ A security utility designed to detect unauthorized modifications, deletions, or 
 
 ## 🌟 Features
 
-Generates digital baseline checksums of target directories.
-Alerts on unauthorized file modifications, additions, and deletions.
-JSON-based baseline storage for simple integration.
+- Generates digital baseline checksums of target directories.
+- Alerts on unauthorized file modifications, additions, and deletions.
+- JSON-based baseline storage for simple integration.
 
 ---
 
