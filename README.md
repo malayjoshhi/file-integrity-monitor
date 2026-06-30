@@ -1,4 +1,4 @@
-# 🔐 Host File Integrity Monitor (FIM)
+# 🔐 File Integrity Monitor (FIM)
 
 A security utility designed to detect unauthorized modifications, deletions, or additions to sensitive files using SHA-256 cryptographic hashes.
 
